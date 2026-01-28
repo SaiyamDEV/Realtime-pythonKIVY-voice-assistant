@@ -1,0 +1,7 @@
+pyaudio
+numpy
+requests
+python-dotenv
+pvporcupine
+groq
+kivy
